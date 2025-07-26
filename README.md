@@ -36,3 +36,7 @@ Make sure you have:
 ```bash
 pip install ultralytics opencv-python pillow requests
 ```
+## Publications
+
+- [My article on Sensei ](https://media.licdn.com/dms/document/media/v2/D4D2DAQFMQjEvsGZRWA/profile-treasury-document-pdf-analyzed/B4DZUel3y7HIAk-/0/1739975003673?e=1754524800&v=beta&t=fIbaEfO_92AYDacqnKNckN6EdV73JdBM2zI5mCyoH4)
+
