@@ -1,4 +1,4 @@
-#📦 Sensei – Embedded-System Box Condition Detection w AI
+# 📦 Sensei – Embedded-System Box Condition Detection w AI
 ---
 ```
    _____ ______ _   _  _____ ______ _____  
